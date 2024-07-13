@@ -1,0 +1,11 @@
+
+body {
+    background-image: linear-gradient(
+        to bottom,
+        rgb(226, 222, 222) 0%,
+        rgb(226, 222, 222) 50%,
+        rgb(20, 55, 20) 50%,
+        rgb(20, 55, 20) 100%
+    );
+    height: 952vh;
+}
